@@ -6,10 +6,19 @@
 
     <groupId>com.hbb</groupId>
     <artifactId>big-finger</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
         <module>utils</module>
         <module>springdemo</module>
+        <module>shiro</module>
+        <module>springcloud</module>
+        <module>javabase</module>
+        <module>mq</module>
+        <module>redis</module>
+        <module>netty</module>
+        <module>mycat</module>
+        <module>cas</module>
     </modules>
 </project>
