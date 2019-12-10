@@ -1,4 +1,4 @@
-package com.finger.desgin.Flyweight.webSiteDemo;
+package com.finger.desgin.flyweight.webSiteDemo;
 
 import java.util.HashMap;
 import java.util.Map;

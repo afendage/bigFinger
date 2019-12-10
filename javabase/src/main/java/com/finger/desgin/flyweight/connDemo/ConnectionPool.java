@@ -1,4 +1,4 @@
-package com.finger.desgin.Flyweight.connDemo;
+package com.finger.desgin.flyweight.connDemo;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package com.finger.desgin.Flyweight.webSiteDemo;
+package com.finger.desgin.flyweight.webSiteDemo;
 
 public class ConcreateWebsite extends Website{
 

@@ -1,6 +1,6 @@
-import com.finger.desgin.Flyweight.connDemo.ConnectionPool;
-import com.finger.desgin.Flyweight.webSiteDemo.WebSiteFactory;
-import com.finger.desgin.Flyweight.webSiteDemo.Website;
+import com.finger.desgin.flyweight.connDemo.ConnectionPool;
+import com.finger.desgin.flyweight.webSiteDemo.WebSiteFactory;
+import com.finger.desgin.flyweight.webSiteDemo.Website;
 import org.junit.Test;
 
 import java.sql.Connection;
