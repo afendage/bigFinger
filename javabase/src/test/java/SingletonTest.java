@@ -1,7 +1,7 @@
 import com.finger.desgin.singleton.Singleton;
 import org.junit.Test;
 
-public class singletonTest {
+public class SingletonTest {
 
     @Test
     public void singletonTest(){

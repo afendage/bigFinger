@@ -4,7 +4,7 @@ import com.finger.desgin.strategy.Multiply;
 import com.finger.desgin.strategy.Plus;
 import org.junit.Test;
 
-public class strategyTest {
+public class StrategyTest {
 
     @Test
     public void calculatorTest(){
