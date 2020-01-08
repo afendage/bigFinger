@@ -3,7 +3,7 @@ import com.finger.desgin.visit.ComputerPart;
 import com.finger.desgin.visit.ComputerPartDisplayVisitor;
 import org.junit.Test;
 
-public class visitTest {
+public class VisitTest {
 
    @Test
    public void visitest(){
