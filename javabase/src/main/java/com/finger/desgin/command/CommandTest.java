@@ -1,7 +1,5 @@
-import com.finger.desgin.command.Command;
-import com.finger.desgin.command.Invoker;
-import com.finger.desgin.command.MyCommand;
-import com.finger.desgin.command.Receiver;
+package com.finger.desgin.command;
+
 import org.junit.Test;
 
 

@@ -1,6 +1,5 @@
-import com.finger.desgin.templatemethod.Student;
-import com.finger.desgin.templatemethod.Teacher;
-import com.finger.desgin.templatemethod.TestPaper;
+package com.finger.desgin.templatemethod;
+
 import org.junit.Test;
 
 public class TemplateMethodTest {

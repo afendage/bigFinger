@@ -1,6 +1,5 @@
-import com.finger.desgin.Iterator.Collection;
-import com.finger.desgin.Iterator.Iterator;
-import com.finger.desgin.Iterator.MyCollection;
+package com.finger.desgin.Iterator;
+
 import org.junit.Test;
 
 public class IteratorTest {

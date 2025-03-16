@@ -1,4 +1,5 @@
-import com.finger.desgin.singleton.Singleton;
+package com.finger.desgin.singleton;
+
 import org.junit.Test;
 
 public class SingletonTest {

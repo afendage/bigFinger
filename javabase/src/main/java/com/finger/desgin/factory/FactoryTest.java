@@ -1,3 +1,5 @@
+package com.finger.desgin.factory;
+
 import com.finger.desgin.factory.methodFactory.QqFactory;
 import com.finger.desgin.factory.simpleFactory.Sender;
 import com.finger.desgin.factory.simpleFactory.SenderFactory;
@@ -9,7 +11,7 @@ public class FactoryTest {
 
     // 优点：代码直观
     // 缺点：如果修改， 需要修改原来的代码，不符合代码的开闭原则（对扩展开放，对修改关闭）
-    // 简单工厂-传参判断模式
+    // D-传参判断模式
     @Test
     public void simpleFactoryTest(){
         SenderFactory factory = new SenderFactory();

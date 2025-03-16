@@ -1,7 +1,5 @@
-import com.finger.desgin.bridge.Driver;
-import com.finger.desgin.bridge.DriverManager;
-import com.finger.desgin.bridge.MyDriver;
-import com.finger.desgin.bridge.MySqlDriver;
+package com.finger.desgin.bridge;
+
 import org.junit.Test;
 
 public class BridgeTest {

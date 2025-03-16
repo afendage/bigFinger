@@ -1,4 +1,5 @@
-import com.finger.desgin.facede.Computer;
+package com.finger.desgin.facede;
+
 import org.junit.Test;
 
 public class FacedeTest {

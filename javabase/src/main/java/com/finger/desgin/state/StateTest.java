@@ -1,6 +1,5 @@
-import com.finger.desgin.state.Context;
-import com.finger.desgin.state.StartState;
-import com.finger.desgin.state.StopState;
+package com.finger.desgin.state;
+
 import org.junit.Test;
 
 public class StateTest {

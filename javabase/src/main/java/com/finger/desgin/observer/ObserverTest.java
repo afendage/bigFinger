@@ -1,7 +1,5 @@
-import com.finger.desgin.observer.ConcreateFan;
-import com.finger.desgin.observer.ConcreateStar;
-import com.finger.desgin.observer.Fan;
-import com.finger.desgin.observer.Star;
+package com.finger.desgin.observer;
+
 import org.junit.Test;
 
 public class ObserverTest {

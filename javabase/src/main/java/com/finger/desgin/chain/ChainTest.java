@@ -1,5 +1,5 @@
-import com.finger.desgin.chain.Handler;
-import com.finger.desgin.chain.MyHandler;
+package com.finger.desgin.chain;
+
 import org.junit.Test;
 
 public class ChainTest {

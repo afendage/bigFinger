@@ -1,6 +1,5 @@
-import com.finger.desgin.visit.Computer;
-import com.finger.desgin.visit.ComputerPart;
-import com.finger.desgin.visit.ComputerPartDisplayVisitor;
+package com.finger.desgin.visit;
+
 import org.junit.Test;
 
 public class VisitTest {

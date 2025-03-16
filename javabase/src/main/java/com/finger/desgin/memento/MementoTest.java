@@ -1,6 +1,5 @@
-import com.finger.desgin.memento.Memento;
-import com.finger.desgin.memento.Original;
-import com.finger.desgin.memento.Storage;
+package com.finger.desgin.memento;
+
 import org.junit.Test;
 
 public class MementoTest {

@@ -1,5 +1,5 @@
-import com.finger.desgin.mediator.Mediator;
-import com.finger.desgin.mediator.MyMediator;
+package com.finger.desgin.mediator;
+
 import org.junit.Test;
 
 public class MediatorTest {

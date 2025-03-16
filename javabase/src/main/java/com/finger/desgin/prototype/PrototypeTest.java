@@ -1,5 +1,5 @@
-import com.finger.desgin.prototype.Personal;
-import com.finger.desgin.prototype.Student;
+package com.finger.desgin.prototype;
+
 import org.junit.Test;
 
 import java.io.IOException;

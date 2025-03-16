@@ -1,4 +1,5 @@
-import com.finger.desgin.adapter.*;
+package com.finger.desgin.adapter;
+
 import org.junit.Test;
 
 public class AdapterTest {

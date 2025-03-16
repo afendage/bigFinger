@@ -1,4 +1,5 @@
-import com.finger.desgin.composite.TreeNode;
+package com.finger.desgin.composite;
+
 import org.junit.Test;
 
 public class CompositeTest {

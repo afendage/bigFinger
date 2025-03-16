@@ -1,7 +1,5 @@
-import com.finger.desgin.Interpreter.AndExpression;
-import com.finger.desgin.Interpreter.Expression;
-import com.finger.desgin.Interpreter.OrExpression;
-import com.finger.desgin.Interpreter.TerminalExpression;
+package com.finger.desgin.Interpreter;
+
 import org.junit.Test;
 
 public class InterpreterTest {

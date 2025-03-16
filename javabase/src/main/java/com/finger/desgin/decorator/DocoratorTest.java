@@ -1,6 +1,5 @@
-import com.finger.desgin.decorator.Docorator;
-import com.finger.desgin.decorator.Source;
-import com.finger.desgin.decorator.Sourceable;
+package com.finger.desgin.decorator;
+
 import org.junit.Test;
 
 public class DocoratorTest {

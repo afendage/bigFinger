@@ -1,5 +1,8 @@
 package com.finger.desgin.prox.staticProx;
 
+/**
+ * 代理类
+ */
 public class Prox implements Sourceable{
 
     private Source source;
@@ -8,6 +11,9 @@ public class Prox implements Sourceable{
         this.source = new Source();
     }
 
+    /**
+     * 进行代理及增强
+     */
     public void method() {
         this.before();
         source.method();

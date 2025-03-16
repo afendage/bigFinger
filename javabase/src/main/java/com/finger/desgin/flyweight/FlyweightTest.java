@@ -1,3 +1,5 @@
+package com.finger.desgin.flyweight;
+
 import com.finger.desgin.flyweight.connDemo.ConnectionPool;
 import com.finger.desgin.flyweight.webSiteDemo.WebSiteFactory;
 import com.finger.desgin.flyweight.webSiteDemo.Website;
