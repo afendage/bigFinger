@@ -8,7 +8,7 @@ public class ArrayUtil {
     /**
      * 获取一个double类型的数字的小数位有多长
      *
-     * @param double类型的数字
+     * @param double double类型的数字
      * @return
      */
     public static int doueleBitCount(double dd) {
