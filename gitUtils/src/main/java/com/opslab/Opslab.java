@@ -65,7 +65,9 @@ public final class Opslab {
      */
     public static final String STR_EMPTY ="";
 
-
+    /**
+     * ddff
+     */
     String AMPERSAND = "&";
     String AND = "and";
     String AT = "@";
