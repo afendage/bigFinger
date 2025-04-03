@@ -1,7 +1,7 @@
 package com.hbb.utils.finger.util;
 
 import org.junit.Test;
-import sun.misc.BASE64Encoder;
+import java.util.Base64;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
@@ -28,9 +28,10 @@ public class md5 {
 			} catch (NoSuchAlgorithmException e) {
 				e.printStackTrace();
 			}
-			BASE64Encoder baseEncoder = new BASE64Encoder();
+			Base64.Encoder encoder = Base64.getEncoder();
 			try {
-				value = baseEncoder.encode(md5.digest(s.getBytes("UTF-8")));
+				byte[] result = encoder.encode(md5.digest(s.getBytes("UTF-8")));
+				value = encoder.encodeToString(result);
 			} catch (UnsupportedEncodingException e) {
 				e.printStackTrace();
 			}
