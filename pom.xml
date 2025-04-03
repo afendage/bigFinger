@@ -12,8 +12,6 @@
     <modules>
         <module>utils</module>
         <module>springdemo</module>
-        <module>shiro</module>
-        <module>springcloud</module>
         <module>javabase</module>
         <module>mq</module>
         <module>redis</module>
