@@ -2,7 +2,9 @@ package com.finger.demo;
 
 import org.junit.Test;
 
-public class JucTest {
+import java.io.Serializable;
+
+public class JucTest{
 
     @Test
     public void pp(){
@@ -16,5 +18,6 @@ public class JucTest {
         int i = 10 ;
         i = ++i;
         System.out.println(i);
+        JucTest test = new JucTest();
     }
 }
