@@ -78,6 +78,12 @@
             <artifactId>ant</artifactId>
             <version>1.9.7</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>easyexcel</artifactId>
+            <version>3.3.2</version> <!-- 可根据实际需求调整版本号 -->
+        </dependency>
     </dependencies>
 
     <build>
