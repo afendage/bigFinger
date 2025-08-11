@@ -11,11 +11,11 @@ public class XCTest {
     public void tt(){
         List<HallManagerRespDTO> listHalls = new ArrayList<>();
         HallManagerRespDTO hall1 = new HallManagerRespDTO();
-        hall1.setId(10000l);
+        hall1.setId(10000L);
         HallManagerRespDTO hall2 = new HallManagerRespDTO();
-        hall2.setId(10001l);
+        hall2.setId(10001L);
         HallManagerRespDTO hall3 = new HallManagerRespDTO();
-        hall3.setId(10003l);
+        hall3.setId(10003L);
         listHalls.add(hall1);
         listHalls.add(hall2);
         listHalls.add(hall3);
